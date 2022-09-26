@@ -1,8 +1,8 @@
-package no.hvl.dat100;
+package programmeringslab_2;
 
 import static javax.swing.JOptionPane.*;
 
-public class Innlevering_B5_lab3 {
+public class Innlevering_B5 {
 
 	public static void main(String[] args) {
 		//Oppgave c

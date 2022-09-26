@@ -1,4 +1,4 @@
-package no.hvl.dat100;
+package DAT100;
 
 import static javax.swing.JOptionPane.*;
 
